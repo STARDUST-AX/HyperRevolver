@@ -1,0 +1,13 @@
+
+    Get-Command
+    Get-Help
+    Get-VM
+    Start-VM
+    Stop-VM
+    Checkpoint-VM
+    Test-VHD
+    Measure-VM
+    Get-VMNetworkAdapter
+    Update-VMVersion
+    Get-Process
+    Where-Object
